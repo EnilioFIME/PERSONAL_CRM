@@ -1,0 +1,3 @@
+.env
+postgres_setup.txt
+node_modules/
